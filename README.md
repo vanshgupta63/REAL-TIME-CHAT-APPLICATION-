@@ -23,3 +23,6 @@ For local development and testing, I used Visual Studio Code as my main code edi
 Throughout the internship, I focused on enhancing both functionality and user experience. Features like message timestamps, user join/leave notifications, and typing indicators were implemented to simulate real-time group interaction. In some versions, I added support for emojis and dark mode themes to improve usability and accessibility. One of the major challenges was managing socket connections and state updates in a React environment, but by effectively using React Hooks like useState and useEffect, I was able to sync the chat state with socket events successfully.
 
 This project provided me with valuable insights into how modern real-time applications function and taught me essential skills like WebSocket communication, state management, component design, and responsive UI development. It also improved my understanding of how frontend and backend systems communicate in a live environment. Overall, this internship and the Real-Time Chat Application project strengthened my skills as a full-stack web developer and prepared me for building scalable, real-time applications in a professional setting.
+
+#OUTPUT
+<img width="1908" height="890" alt="Image" src="https://github.com/user-attachments/assets/1b9d6c11-4a47-4772-9b30-51354ede18fd" />
