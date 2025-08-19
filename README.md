@@ -25,4 +25,5 @@ Throughout the internship, I focused on enhancing both functionality and user ex
 This project provided me with valuable insights into how modern real-time applications function and taught me essential skills like WebSocket communication, state management, component design, and responsive UI development. It also improved my understanding of how frontend and backend systems communicate in a live environment. Overall, this internship and the Real-Time Chat Application project strengthened my skills as a full-stack web developer and prepared me for building scalable, real-time applications in a professional setting.
 
 #OUTPUT
+
 <img width="1908" height="890" alt="Image" src="https://github.com/user-attachments/assets/1b9d6c11-4a47-4772-9b30-51354ede18fd" />
